@@ -74,7 +74,7 @@ void main(void)
      
     while (1)
     {
-		//Activite test structure repo GitHub
+		printf(­­­­­­­"allo");­­­
 
     }
 }
